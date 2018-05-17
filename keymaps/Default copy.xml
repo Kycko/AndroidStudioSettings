@@ -50,8 +50,6 @@
   </action>
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="ctrl q" />
-    <mouse-shortcut keystroke="alt button2" />
-    <keyboard-shortcut first-keystroke="shift back_slash" />
   </action>
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift f6" />
